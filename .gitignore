@@ -1,0 +1,8 @@
+.vscode/
+node_modules/
+.builds/
+tmp/
+temp/
+dist/
+coverage/
+.DS_Store
